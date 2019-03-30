@@ -1,0 +1,14 @@
+{
+  "name": "match_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "match.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chalk": "^2.4.2"
+  }
+}
